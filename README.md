@@ -6,13 +6,13 @@
 Create a function that prints Hello. Create another function that prints World. Call both functions.
 
 ### Problem 2
-Create a function that will display an alert when a string is sent to it. Outside of it, create a variable named favoriteTeacher and assign it "Kevin". Send the favoriteTeacher variable to the new function.
+Create a function that will display an alert when a string is sent to it. Additionally, create a variable named favoriteTeacher and assign it "Kevin". Send the favoriteTeacher variable to the new function.
 
 ### Problem 3
-Given a main function:
-```java
-String studentName = "Kenn"
-printName(studentName);
+Using the code below:
+```javascript
+var studentName = "Kenn"
+console.log(printName(studentName));
 ```
 Create a ```printName``` function to print "Hello" + studentName
 
